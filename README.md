@@ -1,11 +1,11 @@
-# 🏢 Room Booking Management System
+#  Room Booking Management System
 
 A full-stack **Room Booking Management System** developed using **React + TypeScript** for the frontend and **ASP.NET Core Web API** for the backend.  
 This project demonstrates secure authentication, role-based authorization, clean architecture, and modern UI practices.
 
 ---
 
-## 📌 Project Purpose
+##  Project Purpose
 
 This application was built as part of a **technical coding assignment** to demonstrate real-world software development skills, including:
 
@@ -17,20 +17,20 @@ This application was built as part of a **technical coding assignment** to demon
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🔐 Authentication & Authorization
+###  Authentication & Authorization
 - JWT-based authentication
 - Encrypted passwords using **BCrypt**
 - Role-based access control (Admin only)
 - Protected routes on frontend
 
-### 🏢 Room Booking Management
+###  Room Booking Management
 - Admin login portal
 - Secure session handling
 - Scalable backend design for room & booking management
 
-### 🎨 User Interface
+###  User Interface
 - Responsive design
 - Clean, modern UI
 - User-friendly notifications
@@ -38,7 +38,7 @@ This application was built as part of a **technical coding assignment** to demon
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React
@@ -57,13 +57,13 @@ This application was built as part of a **technical coding assignment** to demon
 
 ---
 
-## 🔑 Demo Admin Credentials
+##  Demo Admin Credentials
 Email: admin@sachin.tech
 Password: admin123
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 RoomBookingSystem/
 │
@@ -89,7 +89,7 @@ Copy code
 
 ---
 
-## ⚙️ Backend Setup
+##  Backend Setup
 
 ### Prerequisites
 - .NET 7 SDK
@@ -109,7 +109,7 @@ Copy code
 
 ---
 
-## 💻 Frontend Setup
+##  Frontend Setup
 
 ### Prerequisites
 - Node.js (v18+ recommended)
